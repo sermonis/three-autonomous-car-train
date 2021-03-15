@@ -43,3 +43,15 @@ lowest fitness rating is the good parameter for RBFN.Buttons:
 9. Save the trajectory and data
 10. Operating instructions
 11. Graphic interface
+
+References:
+• three.js - https://threejs.org/
+• FileSaver.js - https://github.com/eligrey/FileSaver.js/
+• Materialize - http://materializecss.com/
+• Chapter5- Defuzzification Methods Debasis Samanta, Indian Institute of Technology
+Kharagpur
+
+• https://www.aitrends.com/ai-insider/genetic-algorithms-self-driving-cars-darwinism-
+optimization/
+
+• alteredq / http://alteredqualia.com/
