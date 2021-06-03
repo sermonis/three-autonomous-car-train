@@ -1,4 +1,5 @@
 Simulator
+![Dash](./screenshot.jpg)
 Car “Simulator use the fuzzy control system, genetic algorithm and particle swarm
 optimization to simulate the movement of the autonomous car on the” map.
 Input contains the car's “three distance sensors (front, 45 degrees left and right),
