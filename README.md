@@ -1,4 +1,4 @@
-Simulator
+# Simulator
 ![Dash](./screenshot.jpg)
 Car “Simulator use the fuzzy control system, genetic algorithm and particle swarm
 optimization to simulate the movement of the autonomous car on the” map.
